@@ -14,5 +14,6 @@
 @property(nonatomic , assign) int result;
 
 - (AddManager * (^)(int))add;
+//gai
 
 @end
